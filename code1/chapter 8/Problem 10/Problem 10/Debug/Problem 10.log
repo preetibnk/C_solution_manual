@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\preeti\documents\visual studio 2015\projects\chapter 8\problem 10\debug\problem 10.exe' is denied.
+  main.c
+c:\users\preeti\documents\visual studio 2015\projects\chapter 8\problem 10\problem 10\main.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\preeti\documents\visual studio 2015\projects\chapter 8\problem 10\problem 10\main.c(24): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\preeti\documents\visual studio 2015\projects\chapter 8\problem 10\problem 10\main.c(24): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\preeti\documents\visual studio 2015\projects\chapter 8\problem 10\problem 10\main.c(24): note: the missing variadic argument 1 is required by format string '%d'
+c:\users\preeti\documents\visual studio 2015\projects\chapter 8\problem 10\problem 10\main.c(26): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\preeti\documents\visual studio 2015\projects\chapter 8\problem 10\problem 10\main.c(26): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\preeti\documents\visual studio 2015\projects\chapter 8\problem 10\problem 10\main.c(26): note: the missing variadic argument 1 is required by format string '%d'
+LINK : fatal error LNK1104: cannot open file 'C:\Users\Preeti\Documents\Visual Studio 2015\Projects\chapter 8\Problem 10\Debug\Problem 10.exe'

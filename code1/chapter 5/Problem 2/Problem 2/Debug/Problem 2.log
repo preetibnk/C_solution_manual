@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\preeti\documents\visual studio 2015\projects\chapter 5\problem 2\problem 2\main.c(21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Problem 2.vcxproj -> C:\Users\Preeti\Documents\Visual Studio 2015\Projects\chapter 5\Problem 2\Debug\Problem 2.exe
+  Problem 2.vcxproj -> C:\Users\Preeti\Documents\Visual Studio 2015\Projects\chapter 5\Problem 2\Debug\Problem 2.pdb (Full PDB)
