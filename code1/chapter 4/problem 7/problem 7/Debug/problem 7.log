@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\preeti\documents\visual studio 2015\projects\chapter 4\problem 7\problem 7\main.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  problem 7.vcxproj -> C:\Users\Preeti\Documents\Visual Studio 2015\Projects\chapter 4\problem 7\Debug\problem 7.exe
+  problem 7.vcxproj -> C:\Users\Preeti\Documents\Visual Studio 2015\Projects\chapter 4\problem 7\Debug\problem 7.pdb (Full PDB)
